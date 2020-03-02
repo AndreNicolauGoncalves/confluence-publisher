@@ -53,8 +53,8 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/alainsahli/confluence-publisher.git</connection>
-        <developerConnection>scm:git:ssh://github.com:alainsahli/confluence-publisher.git</developerConnection>
+        <connection>scm:git:git://github.com/AndreNicolauGoncalves/confluence-publisher.git</connection>
+        <developerConnection>scm:git:https://github.com/AndreNicolauGoncalves/confluence-publisher.git</developerConnection>
         <url>https://github.com/alainsahli/confluence-publisher.git</url>
     </scm>
 
