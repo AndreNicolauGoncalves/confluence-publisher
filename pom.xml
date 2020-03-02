@@ -20,7 +20,7 @@
 
     <groupId>org.sahli.asciidoc.confluence.publisher</groupId>
     <artifactId>asciidoc-confluence-publisher</artifactId>
-    <version>0.8.0-CB-1</version>
+    <version>0.8.0-CB-2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Asciidoc Confluence Publisher</name>
@@ -54,7 +54,7 @@
         <connection>scm:git:git://github.com/AndreNicolauGoncalves/confluence-publisher.git</connection>
         <developerConnection>scm:git:https://github.com/AndreNicolauGoncalves/confluence-publisher.git</developerConnection>
         <url>https://github.com/alainsahli/confluence-publisher.git</url>
-      <tag>asciidoc-confluence-publisher-0.8.0-CB-1</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>

@@ -21,7 +21,7 @@
     <parent>
         <groupId>org.sahli.asciidoc.confluence.publisher</groupId>
         <artifactId>asciidoc-confluence-publisher</artifactId>
-        <version>0.8.0-CB-1</version>
+        <version>0.8.0-CB-2-SNAPSHOT</version>
     </parent>
 
     <name>Asciidoc Confluence Publisher Command Line Client</name>
