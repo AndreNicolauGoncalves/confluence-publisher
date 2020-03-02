@@ -15,14 +15,12 @@
   ~ limitations under the License.
   -->
 
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.sahli.asciidoc.confluence.publisher</groupId>
     <artifactId>asciidoc-confluence-publisher</artifactId>
-    <version>0.8.0-CB-1-SNAPSHOT</version>
+    <version>0.8.0-CB-1</version>
     <packaging>pom</packaging>
 
     <name>Asciidoc Confluence Publisher</name>
@@ -56,7 +54,8 @@
         <connection>scm:git:git://github.com/AndreNicolauGoncalves/confluence-publisher.git</connection>
         <developerConnection>scm:git:https://github.com/AndreNicolauGoncalves/confluence-publisher.git</developerConnection>
         <url>https://github.com/alainsahli/confluence-publisher.git</url>
-    </scm>
+      <tag>asciidoc-confluence-publisher-0.8.0-CB-1</tag>
+  </scm>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
